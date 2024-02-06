@@ -1,0 +1,50 @@
+[
+    {
+        "name": "weather app",
+        "demo": "https://weather-application11.netlify.app",
+        "github": "https://github.com/dachi123456/weather",
+        "img": "./src/assets/weather.png",  
+        "shortDescr": "built with weather api",
+        "id": 0
+    },
+    {
+        "name": "ToDo app",
+        "demo": "https://amazing-stroopwafel-760627.netlify.app",
+        "github": "https://github.com/dachi123456/todoAplication",
+        "img": "./src/assets/todo.png",  
+        "shortDescr": "built with redux toolkit",
+        "id": 1
+    },
+    {
+        "name": "clothes e-commerce",
+        "demo": "https://ecommerce-fakee.netlify.app",
+        "github": "https://github.com/dachi123456/Ecommerce",
+        "img": "./src/assets/clothes-ecommerce.png",  
+        "shortDescr": "built with redux toolkit,custom hooks, fake clothes api",
+        "id": 2
+    },
+    {
+        "name": "Crypto",
+        "demo": "https://classy-cascaron-100523.netlify.app",
+        "github": "https://github.com/dachi123456/crypto",
+        "img": "./src/assets/crypto.png",  
+        "shortDescr": "using: crypto api,tsx,react router",
+        "id": 3
+    },
+    {
+        "name": "Dictionary",
+        "demo": "https://storied-torte-099134.netlify.app",
+        "github": "https://github.com/dachi123456/dictionary",
+        "img": "./src/assets/dictionary.png",
+        "shortDescr": "using dictionary api",
+        "id": 4
+    },
+    {
+        "name": "flowers e-commerce",
+        "demo": "https://e-ccomerce-flowers.netlify.app",
+        "github": "https://github.com/dachi123456/e-commerce",
+        "img": "./src/assets/flowers-ecommerce.png",  
+        "shortDescr": "using redux toolkit,jsx",
+        "id": 5
+    }
+]
